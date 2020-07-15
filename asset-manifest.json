@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/zlatanfacts/static/css/main.599a7bb1.chunk.css",
+    "main.js": "/zlatanfacts/static/js/main.c2698c12.chunk.js",
+    "main.js.map": "/zlatanfacts/static/js/main.c2698c12.chunk.js.map",
+    "runtime-main.js": "/zlatanfacts/static/js/runtime-main.06acbbc4.js",
+    "runtime-main.js.map": "/zlatanfacts/static/js/runtime-main.06acbbc4.js.map",
+    "static/js/2.d872fa67.chunk.js": "/zlatanfacts/static/js/2.d872fa67.chunk.js",
+    "static/js/2.d872fa67.chunk.js.map": "/zlatanfacts/static/js/2.d872fa67.chunk.js.map",
+    "index.html": "/zlatanfacts/index.html",
+    "precache-manifest.94de8d51c446ea2e9c92a4d609e76a9f.js": "/zlatanfacts/precache-manifest.94de8d51c446ea2e9c92a4d609e76a9f.js",
+    "service-worker.js": "/zlatanfacts/service-worker.js",
+    "static/css/main.599a7bb1.chunk.css.map": "/zlatanfacts/static/css/main.599a7bb1.chunk.css.map",
+    "static/js/2.d872fa67.chunk.js.LICENSE.txt": "/zlatanfacts/static/js/2.d872fa67.chunk.js.LICENSE.txt",
+    "static/media/ibra.png": "/zlatanfacts/static/media/ibra.852af8e6.png",
+    "static/media/ibra_logo.png": "/zlatanfacts/static/media/ibra_logo.0e6b08ec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06acbbc4.js",
+    "static/js/2.d872fa67.chunk.js",
+    "static/css/main.599a7bb1.chunk.css",
+    "static/js/main.c2698c12.chunk.js"
+  ]
+}
