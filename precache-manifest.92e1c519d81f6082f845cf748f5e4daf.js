@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0a9845dd75e36cc6a664c644850903d",
+    "revision": "d7efb17659b293bffab5428431729a7a",
     "url": "/zlatanfacts/index.html"
   },
   {
-    "revision": "fdaf15f45fd4fe3aa083",
+    "revision": "bcd1af841e227c00bc66",
     "url": "/zlatanfacts/static/css/main.599a7bb1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zlatanfacts/static/js/2.d872fa67.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fdaf15f45fd4fe3aa083",
-    "url": "/zlatanfacts/static/js/main.c2698c12.chunk.js"
+    "revision": "bcd1af841e227c00bc66",
+    "url": "/zlatanfacts/static/js/main.c5ed049e.chunk.js"
   },
   {
     "revision": "ffeb71a6da8795dc11e0",
