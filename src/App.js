@@ -28,9 +28,13 @@ class App extends Component {
   };
 
 
-  changeName(str){
-    return str.replace("Chuck Norris", "Zlatan");
-  }
+  const replaceName = (str, oldName, newName) => {
+    let replaced = sstr.replace(oldName, newName);
+    if (!(replaced.search(oldName) + 1)) {
+        return replaced;
+    }
+    return replaceName(replaced, oldName, newName);
+}
 
   
   handleCategory = (e) => {
