@@ -28,12 +28,12 @@ class App extends Component {
   };
 
 
-  const replaceName = (str, oldName, newName) => {
-    let replaced = sstr.replace(oldName, newName);
+  replaceName = (str, oldName, newName) => {
+    let replaced = str.replace(oldName, newName);
     if (!(replaced.search(oldName) + 1)) {
         return replaced;
     }
-    return replaceName(replaced, oldName, newName);
+    return this.replaceName(replaced, oldName, newName);
 }
 
   
@@ -53,7 +53,7 @@ class App extends Component {
       const response = await fetch(factUrl)
       const fact = await response.json();
       this.setState({
-        fact: this.changeName(fact.value),
+        fact: this.replaceName(fact.value, "Chuck Norris", "Zlatan"),
       });
     } catch(err) {
 
