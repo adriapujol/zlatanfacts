@@ -19,7 +19,7 @@ Don't worry, I got you covered. I've also done the Chuck Norris version:
 
 https://adriapujol.github.io/norrisfacts/
 
-gitHub: https://github.com/adriapujol/norrisfacts
+GitHub: https://github.com/adriapujol/norrisfacts
 
 ## Credits
 
