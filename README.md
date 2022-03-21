@@ -13,6 +13,14 @@ There is no Zlatan Facts API that I could find BUT, at my own risk, I changed oc
 
 Zlatan made me do it
 
+## What about Chuck?
+
+Don't worry, I got you covered. I've also done the Chuck Norris version:
+
+https://adriapujol.github.io/norrisfacts/
+
+gitHub: https://github.com/adriapujol/norrisfacts
+
 ## Credits
 
 Code and Design by yours only, me.
