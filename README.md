@@ -2,7 +2,7 @@
 
 The one and only, the legend, Chuck... I mean Zlatan. This project gets you a Zlatan fact by category. So you can keep spreading the legend of this great player.
 
-https://adriapujol.github.io/zlatanfacts/
+Have a [look](https://adriapujol.github.io/zlatanfacts/).
 
 
 ## API
@@ -15,14 +15,12 @@ Zlatan made me do it
 
 ## What about Chuck?
 
-Don't worry, I got you covered. I've also done the Chuck Norris version:
+Don't worry, I got you covered. I've also done the [Chuck Norris version](https://adriapujol.github.io/norrisfacts/)
 
-https://adriapujol.github.io/norrisfacts/
-
-GitHub: https://github.com/adriapujol/norrisfacts
+[GitHub](https://github.com/adriapujol/norrisfacts)
 
 ## Credits
 
 Code and Design by yours only, me.
 
-API: https://api.chucknorris.io/
+[Chuck Norris API](https://api.chucknorris.io/)
